@@ -24,3 +24,9 @@ def won?(board)
     end
     false
 end
+
+def full?(board)
+    board.each do |space|
+        
+    end
+end
